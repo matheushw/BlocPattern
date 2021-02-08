@@ -1,5 +1,5 @@
 import 'package:BlocProj/blocs.dart';
-import 'package:BlocProj/eventes.dart';
+import 'package:BlocProj/events.dart';
 import 'package:BlocProj/states.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
