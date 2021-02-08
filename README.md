@@ -1,6 +1,6 @@
 # BlocProj
 
-A new Flutter project.
+Bloc pattern train repository.
 
 ## Getting Started
 
